@@ -1,0 +1,14 @@
+table{
+    width: 120px;
+    border-collapse: collapse;
+    margin: 20px;
+}
+td,th{
+    border: 5px solid cornflowerblue;
+    padding: 15px;
+}
+tr:nth-child(even)
+{background-color: rosybrown}
+th{
+    color: darkred;
+}

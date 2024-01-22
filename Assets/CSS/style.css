@@ -1,0 +1,28 @@
+.fruits{
+    border: 3px solid #9292e5;
+    text-align: center;
+    font-family: Chilanka;
+    background-image: url("assets/images/avtr.jpeg");
+    margin: 20px;
+    padding: 20px;
+    font-size: 28px;
+
+}
+.cars{
+    border: 5px solid pink;
+    text-align: right;
+    font-family: "DejaVu Serif";
+    background-color: chocolate;
+    margin: 30px;
+    padding: 28px;
+    font-size: 20px;
+}
+.FRUITS{
+    border: 6px solid  #e82743;
+    text-align: justify;
+    font-family: Ubuntu;
+    background-color: blueviolet;
+    margin: 15px;
+    padding: 15px;
+    font-size: 14px;
+}
